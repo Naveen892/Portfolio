@@ -1,0 +1,100 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Naveen Kumar. Passionate about creating impactful software solutions. Experienced software developer with a strong foundation in cross-platform Mobile App Development and hands-on experience in web development, and backend development. I have successfully delivered end-to-end projects, leveraging my skills in project management, coding, and problem-solving. Currently I'm working with newest frameworks like React Native, Android Studio, XCode and libraries like ReactJs, ReduxJs, Redux-Saga, Node Js. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Orgobucket",
+        "startDate": "2021",
+        "description": "This is A cross-platform app offers a unified interface for retailers and consumers, enabling easy fruit and vegetable purchasing. Customers can compare products, access nutritional information, and read reviews, while retailers can showcase their produce and manage inventory efficiently. It's a seamless solution for everyone involved.",
+        "images": [
+          "portfolio/project1/p1.jpg",
+          "portfolio/project1/p2.jpg"
+        ],
+        "url": "https://github.com/Naveen892/Orgobucket",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Qno",
+        "startDate": "2021",
+        "description": "This is A salon appointment booking app That simplifies the process of scheduling appointments with salons. Users can easily browse available services, select their preferred date and time, and book appointments with just a few taps. It's a convenient solution for both customers and salons to manage their schedules efficiently :)",
+        "images": [
+          "portfolio/project2/p1.jpg"
+        ],
+        "url": "https://github.com/Naveen892/qno-Owner",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Logipe",
+        "title": "Software Developer",
+        "years": "June 2022 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "React Native",
+          "Android Studio",
+          "XCode",
+          "Redux-Saga",
+          "ReactJs",
+          "JavaScript",
+          "Socket.io",
+          "NodeJs"
+        ]
+      },
+      {
+        "company": "IIT Guwahati",
+        "title": "B-Tech",
+        "years": "July 2018 - May 2022",
+        "technologies": [
+          "React Native",
+          "Android Studio",
+          "Web Design",
+          "JavaScript"
+        ]
+      }
+    ]
+  }

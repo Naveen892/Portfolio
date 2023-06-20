@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Naveen Kumar",
+      "titles": [ "Software Developer", "Android & Ios Developer", "Website Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Naveen892",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/nvnpanwar/",
+          "class": "fab devicon-linkedin-plain"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React Native",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-androidstudio-plain",
+          "level": "80"
+        },
+        {
+          "name": "Xcode",
+          "class": "devicon-xcode-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "75"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "65"
+        },
+        {
+          "name": "GIT",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-visualstudio-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
